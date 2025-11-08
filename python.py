@@ -2,7 +2,8 @@ import numpy as np
 from scipy.integrate import quad
 def main():
     {
-        print(123)
+        a=123
+        print(a)
     }
 
     
