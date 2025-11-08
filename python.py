@@ -1,6 +1,11 @@
 import numpy as np
 from scipy.integrate import quad
+def main():
+    {
+        print(123)
+    }
 
+    
 def calculate_average(f, a, b):
     """
     计算函数 f 在区间 [a, b] 上的积分平均值。
